@@ -1,0 +1,300 @@
+.abc{
+    background-color: black;
+    overflow: hidden;
+}
+
+ul{
+
+    float:right;
+    margin-right: 400px;
+    text-align: center;
+    padding: 10px;
+    
+}
+#a{
+
+    color: lavenderblush;
+    font-size: 25px;
+    text-decoration: none;
+
+}
+.img{
+    
+    position: absolute;
+    left: 250px;
+    margin-top: -10px;
+    
+}
+#r{
+    background-color: blue;
+    padding:16px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+
+}
+#p{
+    font-size: 20px;
+    overflow: hidden;
+    color:white;
+    text-decoration: none;
+    
+  
+}
+.za{
+    font-size: 30px;
+    text-decoration: none;
+    color: blue;
+
+}
+.zb{
+    color: blue;
+    font-size: 30px;
+    text-decoration: none;
+}
+.r{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+}
+.white{
+    width: 100%;
+    height: 20px;
+    background-color:white;
+}
+.black{
+    background-color: black;
+    width: 100%;
+    height: 800px;
+}
+.q{
+    float: left;
+    margin-left: 780px;
+    margin-top: 6px;
+    
+
+}
+.w{
+    background-color: black;
+    width: 800px;
+    height: 700px;
+    float: right;
+    margin-right: 1000px;
+}
+.h{
+    float:left;
+    margin-left: 250px;
+}
+.ipad{
+    float:right;
+    margin-right: 450px;
+    margin-top: -600px;
+    font-size: 60px;
+    color: black;
+    line-height: 0px;
+}
+.pow{
+    float:right;
+    margin-right: 380px;
+    margin-top: -500px;
+    font-size: 30px;
+    color: gray;
+    line-height: 0px;
+
+}
+.z{
+    float: right;
+    margin-right: 410px;
+    margin-top: -450px;
+}
+.air{
+    float: right;
+    margin-right: 80px;
+    margin-top: -400px;
+}
+.v{
+    background-color: white;
+    width: 800px;
+    height: 700px;
+    float: right;
+    margin-right: 1000px;
+}
+.or{
+    width: 100%;
+    height: 20px;
+    background-color:white;
+    margin-top: 610px;
+
+
+}
+.font{
+    margin-left: 150px;
+    font-size: 30px;
+    line-height: 0px;
+}
+.f{
+    margin-left: 230px;
+    font-size: 30px;
+    line-height: 0px;
+}
+.blue{
+    width: 950px;
+    height: 700px;
+    float: right;
+    margin-right: 30px;
+    background-color: #1edce3;
+    margin-top: -700px;
+}
+.y{
+    float: right;
+    margin-right: 350px;
+    font-size: 28px;
+    line-height: 0px;
+}
+#c{
+    float: right;
+    margin-right: 400px;
+    font-size: 28px;
+    line-height: 0px;
+
+}
+#b{
+    margin-top: 20px;
+    float: right;
+    margin-right: 280px;
+    font-size: 28px;
+
+}
+#p{
+    float: right;
+    margin-right: 60px;
+}
+#n{
+    width: 100%;
+    height: 20px;
+    background-color:white;
+    margin-top: 700px;
+
+}
+#we{
+  margin-left:180px;
+  font-size: 30px;
+  line-height: 0px;
+   
+   
+}
+#l{
+    margin-left: 210px;
+    font-size: 30px;
+    line-height: 0px;
+}
+.cv{
+    width: 950px;
+    height: 700px;
+    float: right;
+    margin-right: 30px;
+    background-color: black;
+    margin-top: -700px;
+
+}
+.df{
+    color: gray;
+    margin-left: 220px;
+    font-size: 30px;
+    line-height: 0px;
+}
+.gf{
+    color: gray;
+    margin-left: 215px;
+    font-size: 30px;
+    line-height: 0px;
+}
+.pf{
+    color: gray;
+    margin-left: 240px;
+    font-size: 30px;
+    line-height: 0px;
+
+}
+#nm{
+    margin-left: 100px;
+}
+#as{
+   width: 100%;
+   height: 20px;
+    background-color: white;
+}
+.xb{
+    width: 800px;
+    height: 700px;
+    float: left;
+    margin-left: 10px;
+    background-color: whitesmoke;
+    
+}
+.po{
+    background-image: url("images/tv.jpg");
+    width: 950px;
+    height: 700px;
+    margin-left: 830px;
+    margin-top: 6px;
+}
+#grey{
+    background-color:#e1e5eb;
+    width: 100%;
+    height: 1550px;
+}
+.price{
+    color: gray;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 20px;
+}
+.pr{
+    color: gray;
+    font-size: 20px;
+    margin-left: 190px;
+    margin-right: 150px;
+    
+
+}
+.last{
+    
+    margin-right: -60px;
+    text-align: left;
+    color: gray;
+    margin-left: 180px;
+}
+.Account{
+    margin-right: 760px;
+    text-align: left;
+    color: gray;
+
+}
+.business{
+    color: gray;
+    text-align: left;
+    margin-right: 200px;
+    
+}
+.government{
+    color: gray;
+    text-align: left;
+    margin-right: -620px;
+    margin-left: 500px;
+}
+.Apple{
+    color: gray;
+    text-align: left;
+    margin-left: 530px;
+    margin-right: -40px;
+    
+}
+
+
+
+
+    
+
